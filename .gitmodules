@@ -1,3 +1,6 @@
 [submodule "foundry-voting/lib/forge-std"]
 	path = foundry-voting/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "SimpleStorage/lib/forge-std"]
+	path = SimpleStorage/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
